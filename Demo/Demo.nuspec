@@ -3,9 +3,9 @@
     <metadata>
         <!-- Required elements-->
         
-        <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
+        <version>12</version>
+    <title>test</title>
+    <authors>tests</authors>
 
         <!-- Optional elements -->
         <!-- ... -->
