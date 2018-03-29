@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <!-- Required elements-->
-        <id></id>
-        <version></version>
-        <description></description>
-        <authors></authors>
+        
+        <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
 
         <!-- Optional elements -->
         <!-- ... -->
