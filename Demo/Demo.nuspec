@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
     <metadata>
-      <id>4</id>
-    <version>kkppk</version>
-    <title>demo</title>
-    <authors>venkat</authors>
-    <owners>venkat</owners>
+     <id>$id</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Configuration library</description>
     <releaseNotes>First release</releaseNotes>
